@@ -8,6 +8,7 @@ A PostgreSQL case study on 1,047 beer and malt sales across Nigeria, Ghana, Beni
 
 ## Quick links
 
+- 🌐 [Live dashboard and SQL lab](https://bihbrandysango-cloud.github.io/projects/brewery/), filter the sales and run these queries in your browser
 - 🗄️ [Analysis queries (20 questions)](sql/02_analysis.sql)
 - 🧱 [Schema and data load](sql/01_schema_and_load.sql)
 - 📋 [Answers to all 20 questions](docs/results.md)
